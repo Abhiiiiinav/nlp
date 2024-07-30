@@ -1,18 +1,7 @@
 # %% [markdown]
 # 
-
+# abhinav
 # %%
-!pip install jsonlines transformers
-!pip install jsonlines
-!pip install jsonlines transformers datasets
-!pip install datasets
-from transformers import GenerationConfig
-
-
-# %%
-!pip install transformers[torch] -U
-!pip install accelerate -U
-
 
 # %%
 # Import required libraries
